@@ -19,3 +19,5 @@ This project implements a translation server that dynamically updates its dictio
 ### **Version 3: Unified Server**  
 - **Integrated Server:** Combines all functionalities, manages shared memory, and handles real-time dictionary updates.  
 - **Missing Words Handling:** Reloads dictionary files if a requested word is missing.  
+
+**[Read the full report](./Translation_Server_Project_Report.pdf)** 
