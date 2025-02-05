@@ -1,0 +1,5 @@
+salam;aslam
+hello;bonjour
+cat;chat
+dog;chien
+dogq;chienq
